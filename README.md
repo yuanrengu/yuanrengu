@@ -7,10 +7,10 @@
   </h3>
 </div>
 
-<a href="http://wwj.icu">
+<a href="https://yuanrengu.com/">
   <img align="left" height=170px src="https://github-readme-stats.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true" />
 </a>
-<a href="http://wwj.icu">
+<a href="https://yuanrengu.com/">
   <img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanrengu&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
