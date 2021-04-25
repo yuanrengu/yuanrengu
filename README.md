@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<div>
+  <h3 align="center"> 
+    Visitors Count<br>
+    <img align="center" src="https://profile-counter.glitch.me/yuanrengu/count.svg" />
+  </h3>
+</div>
+
+<a href="http://wwj.icu">
+  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true" />
+</a>
+<a href="http://wwj.icu">
+  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanrengu&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
+</a>
+
 <!--
 **yuanrengu/yuanrengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
