@@ -8,11 +8,13 @@
 </div>
 
 <a href="https://yuanrengu.com/">
-  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true" />
+  <img align="center" height=170px src="https://github-readme-stats.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true" />
 </a>
+<!--
 <a href="https://yuanrengu.com/">
   <img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanrengu&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
+-->
 
 <!--
 **yuanrengu/yuanrengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
