@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <div>
   <h3 align="center"> 
-    <img src="https://cdn.yuanrengu.com/wechat.png" alt="wechat.png" align="center">  
+    添加微信请备注：github<br>
+    <img src="wechat.png" alt="wechat.png" align="center">  
   </h3>
 </div>
 
