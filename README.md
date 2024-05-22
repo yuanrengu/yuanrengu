@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div>
   <h3 align="center"> 
-    <img src="https://yuanrengu.com/images/wechat.png" alt="wechat.png" align="center">  
+    <img src="https://cdn.yuanrengu.com/wechat.png" alt="wechat.png" align="center">  
   </h3>
 </div>
 
