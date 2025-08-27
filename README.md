@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&color=00c6ff&text=猿人谷&fontColor=ffffff&textBg=false" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&color=00c6ff&text=动手·分享·成长&fontColor=ffffff&textBg=false" 
        alt="header" 
        style="width:100%; max-width:1200px; height:auto;" />
 </div>
