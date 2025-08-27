@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Yuanrengu%20%7C%20AI%20%26%20Code&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&color=00c6ff&text=猿人谷&fontColor=ffffff&textBg=false" 
+       alt="header" 
+       style="width:100%; max-width:1200px; height:auto;" />
+</div>
 
 ### Hi there 👋  
 我是一个热衷动手实践、乐于知识分享的技术爱好者。  
@@ -17,11 +22,12 @@
 ---
 
 💡 **关于我**
-- 💻 10+ 年互联网研发 & 架构经验  
+- 💻 10+ 年互联网研发 & 架构经验  & 团队管理
 - 🛠️ 专注于 **微服务架构、云原生生态与 AI 技术实践**  
 - 🎯 喜欢尝试新技术，拥抱变化  
 
 **Skills / Tech Stack**  
+
 [![AI](https://img.shields.io/badge/AI-Exploring-blue?logo=openai&logoColor=white)](https://openai.com) 
 [![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white)](https://www.oracle.com/java/) 
 [![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)](https://go.dev/) 
@@ -31,13 +37,21 @@
 
 ---
 
-📊 **我的 GitHub Stats**
-<a href="https://yuanrengu.com/">
-  <img align="center" height=170px src="https://github-readme-stats.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true&theme=radical" />
-</a>
-<a href="https://yuanrengu.com/">
-  <img align="center" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanrengu&layout=compact&theme=radical" />
-</a>
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- 总体统计 -->
+  <a href="https://yuanrengu.com/">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true&theme=radical" />
+  </a>
+
+  <!-- 语言统计 -->
+  <a href="https://yuanrengu.com/">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanrengu&layout=compact&theme=radical" />
+  </a>
+
+</div>
 
 ---
 
@@ -45,13 +59,6 @@
 <div align="center">
   <p>添加微信请备注：github</p>
   <img src="wechat.png" alt="wechat.png" width="200">
-</div>
-
----
-
-<div align="center">
-  <h3>👀 Visitors Count</h3>
-  <img src="https://profile-counter.glitch.me/yuanrengu/count.svg" />
 </div>
 
 ---
