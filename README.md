@@ -32,8 +32,10 @@
 [![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white)](https://www.oracle.com/java/) 
 [![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go&logoColor=white)](https://go.dev/) 
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-cloud)
 [![Cloud Native](https://img.shields.io/badge/Cloud-Native-00bcd4?logo=kubernetes&logoColor=white)](https://kubernetes.io) 
-[![n8n](https://img.shields.io/badge/Automation-n8n-orange?logo=n8n&logoColor=white)](https://n8n.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
@@ -41,15 +43,26 @@
 
 <div align="center">
 
-  <!-- 总体统计 -->
-  <a href="https://yuanrengu.com/">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true&theme=radical" />
+  <!-- 总体统计 - 使用更稳定的服务 -->
+  <a href="https://x.com/MiracleHe" target="_blank">
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yuanrengu&show_icons=true&count_private=true&theme=radical&hide_border=true" />
   </a>
 
-  <!-- 语言统计 -->
-  <a href="https://yuanrengu.com/">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanrengu&layout=compact&theme=radical" />
+  <!-- 语言统计 - 使用更稳定的服务 -->
+  <a href="https://x.com/MiracleHe" target="_blank">
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuanrengu&layout=compact&theme=radical&hide_border=true" />
   </a>
+
+
+  <!-- 访客统计 -->
+  <div style="margin-top: 25px;">
+    <div style="display: inline-block; padding: 15px 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 6px 20px rgba(0,0,0,0.15);">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <span style="color: white; font-size: 16px; font-weight: bold;">👥 总访客数</span>
+        <img src="https://komarev.com/ghpvc/?username=yuanrengu&color=ffffff&style=flat&label=&labelColor=transparent&base=10000" alt="总访客数" style="vertical-align: middle;" />
+      </div>
+    </div>
+  </div>
 
 </div>
 
@@ -57,8 +70,17 @@
 
 🌍 **联系我**
 <div align="center">
-  <p>添加微信请备注：github</p>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/MiracleHe" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  
+  
+  <!-- 微信 -->
+  <p style="margin-top: 20px;">添加微信请备注：github</p>
   <img src="wechat.png" alt="wechat.png" width="200">
+  
 </div>
 
 ---
